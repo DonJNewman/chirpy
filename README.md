@@ -1,4 +1,4 @@
-# Chirpy - Back End API # 
+# Chirpy - Social Media API # 
 
 This professional grade backend API is built with Go and PostgreSQL and features user management, post creation, and comprehensive metrics tracking.
 
