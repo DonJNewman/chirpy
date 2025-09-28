@@ -12,6 +12,17 @@ This project is still in progress. Future functionality includes authentication 
 - **Metrics Tracking**: Thread-safe request counting and performance monitoring
 - **Database Integration**: PostgreSQL with type-safe query generation
 
+## 🎯 Skills Demonstrated
+
+- **Web API Development**: RESTful endpoint design and HTTP protocol mastery
+- **Database Integration**: PostgreSQL schema design and query optimization
+- **Concurrent Programming**: Thread-safe operations and atomic variables
+- **Security Practices**: Environment-based configuration and input validation
+- **Code Generation**: SQLC integration for type-safe database operations
+- **Middleware Architecture**: Custom middleware for cross-cutting concerns
+- **Error Handling**: Comprehensive error responses and status codes
+
+
 ## 🏗️ Technical Architecture
 
 ### Web Server Design
@@ -68,16 +79,6 @@ user, err := cfg.db.CreateUser(ctx, database.CreateUserParams{
     Email:     email,
 })
 ```
-
-## 🎯 Skills Demonstrated
-
-- **Web API Development**: RESTful endpoint design and HTTP protocol mastery
-- **Database Integration**: PostgreSQL schema design and query optimization
-- **Concurrent Programming**: Thread-safe operations and atomic variables
-- **Security Practices**: Environment-based configuration and input validation
-- **Code Generation**: SQLC integration for type-safe database operations
-- **Middleware Architecture**: Custom middleware for cross-cutting concerns
-- **Error Handling**: Comprehensive error responses and status codes
 
 ## 🚀 Getting Started
 
